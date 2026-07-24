@@ -1,7 +1,7 @@
 {
-  "version": "1.2.1",
-  "installerUrl": "https://github.com/kaka-cil/yibu-update/releases/download/v1.2.1/Yibu-Setup-1.2.1-x64.exe",
-  "sha256": "4E1C3547EA2E10FF415E16BC8CBDD0B7A5C7C6B6EA6D76161D21A99A7E5D2738",
-  "releaseNotes": "优化批量导入和导出性能。",
+  "version": "1.2.2",
+  "installerUrl": "https://github.com/kaka-cil/yibu-update/releases/download/v1.2.2/Yibu-Setup-1.2.2-x64.exe",
+  "sha256": "B8B5857643A95B04E5CABA8F78F64CA3667E06C8CE9958E416EBFF1CD4189D33",
+  "releaseNotes": "支持MOV格式，根据视频秒数自适应压缩视频体积",
   "mandatory": false
 }
