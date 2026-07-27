@@ -1,7 +1,8 @@
 {
-  "version": "1.2.2",
-  "installerUrl": "https://github.com/kaka-cli/yibu-update/releases/download/v1.2.2/Yibu-Setup-1.2.2-x64.exe",
-  "sha256": "B8B5857643A95B04E5CABA8F78F64CA3667E06C8CE9958E416EBFF1CD4189D33",
-  "releaseNotes": "支持MOV格式，根据视频秒数自适应压缩视频体积",
+  "version": "1.2.3",
+  "installerUrl": "https://github.com/kaka-cli/yibu-update/releases/download/v1.2.3/Yibu-Setup-1.2.3-x64.exe",
+  "sha256": "5BA9212E51C7C473CC879B58356ABD9ACED00736907C1056D997ED09C56C9004",
+  "releaseNotes": "新增支持MOV格式，夜间模式，体积变化显示样式可自定义",
   "mandatory": false
 }
+
