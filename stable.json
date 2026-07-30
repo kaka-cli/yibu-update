@@ -1,8 +1,7 @@
 {
-  "version": "1.2.3",
-  "installerUrl": "https://github.com/kaka-cli/yibu-update/releases/download/v1.2.3/Yibu-Setup-1.2.3-x64.exe",
-  "sha256": "5BA9212E51C7C473CC879B58356ABD9ACED00736907C1056D997ED09C56C9004",
-  "releaseNotes": "新增支持MOV格式，夜间模式，体积变化显示样式可自定义",
+  "version": "1.2.4",
+  "installerUrl": "https://github.com/kaka-cli/yibu-update/releases/download/v1.2.4/Yibu-Setup-1.2.4-x64.exe",
+  "sha256": "88829301E52829E216F829F04AC3F46FDD11E43E65BA24789C50D5E928DEA1AD",
+  "releaseNotes": "包含近期界面交互与稳定性改进。",
   "mandatory": false
 }
-
