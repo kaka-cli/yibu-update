@@ -1,7 +1,7 @@
 {
-  "version": "1.2.4",
-  "installerUrl": "https://github.com/kaka-cli/yibu-update/releases/download/v1.2.4/Yibu-Setup-1.2.4-x64.exe",
-  "sha256": "88829301E52829E216F829F04AC3F46FDD11E43E65BA24789C50D5E928DEA1AD",
-  "releaseNotes": "包含近期界面交互与稳定性改进。",
+  "version": "1.5.1",
+  "installerUrl": "https://github.com/kaka-cli/yibu-update/releases/download/v1.5.1/Yibu-Setup-1.5.1-x64.exe",
+  "sha256": "FD73D0414EFFE1DE9B845000444DAE9F199FA099EE95E97D58B4EFFD8268A65A",
+  "releaseNotes": "优化批量下载与转换体验；包含最新界面调整和稳定性修复。",
   "mandatory": false
 }
