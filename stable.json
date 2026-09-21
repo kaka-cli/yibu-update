@@ -1,7 +1,7 @@
 {
-  "version": "1.5.1",
-  "installerUrl": "https://github.com/kaka-cli/yibu-update/releases/download/v1.5.1/Yibu-Setup-1.5.1-x64.exe",
-  "sha256": "FD73D0414EFFE1DE9B845000444DAE9F199FA099EE95E97D58B4EFFD8268A65A",
-  "releaseNotes": "优化批量下载与转换体验；包含最新界面调整和稳定性修复。",
+  "version": "1.5.2",
+  "installerUrl": "https://github.com/kaka-cli/yibu-update/releases/download/v1.5.2/Yibu-Setup-1.5.2-x64.exe",
+  "sha256": "A5C1A1F63833CD712CD8A4F50025F823793764C8BCC917A914450B44BD8987E4",
+  "releaseNotes": "体积上限增加 1.5 MB；移除 CRF 控件，视频体积变大，也会更清晰。",
   "mandatory": false
 }
